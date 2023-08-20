@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 870px) and (max-width: 1024px) {
+@media screen and (min-width: 873px) and (max-width: 1024px) {
     body{
-        background-color: brown;
+        background-color: orange;
     }
 
     section#login{

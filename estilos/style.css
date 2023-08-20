@@ -46,6 +46,7 @@ section#login > div#imagem{
     display: block;
     background: #5f2c82 url('../imagens/imagem-predio.jpg') no-repeat;
     background-size: cover;
+    background-position: top center;
     height: 200px;
 }
 
